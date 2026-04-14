@@ -4,13 +4,15 @@
 
 ```
 linkedin-post-generator/
-  SKILL.md          — The skill definition and format reference
-  README.md         — This file
+  SKILL.md               — The skill definition and format reference
+  README.md              — This file
   examples/
-    observation.md  — Worked example: The Observation format
-    number.md       — Worked example: The Number format
-    before-after.md — Worked example: The Before/After format
-    question.md     — Worked example: The Question format
+    observation.md       — Worked example: The Observation format
+    number.md            — Worked example: The Number format
+    before-after.md      — Worked example: The Before/After format
+    question.md          — Worked example: The Question format
+    polarising.md        — Worked example: The Polarising Statement format
+    unspoken-truth.md    — Worked example: The Unspoken Truth format
 ```
 
 ## Installation in Claude Code
