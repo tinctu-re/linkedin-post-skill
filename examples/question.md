@@ -3,20 +3,24 @@
 ## Input
 
 ```
-/linkedin-post Should founders build or buy their first CRM? Most build too early. Buy first, always. You don't have enough data to know what a custom system needs to do.
+/linkedin-post Should you specialise or stay generalist as a consultant. I think specialise, people disagree.
 format: question
 ```
 
 ## Output
 
-Should you build or buy your first CRM?
+Should a consultant specialise or stay broad?
 
-Buy. Every time.
+Specialise. I have watched this argument for eleven years and I have stopped finding it balanced.
 
-You don't have enough data yet to know what a custom system needs to do. The requirements you have at month three are not the requirements you'll have at month eighteen, and anything you build now will be either too rigid or too much work to maintain.
+The case for staying broad is usually framed as resilience. More markets, more entry points, less exposure if one sector contracts. That sounds right and it describes almost nobody I know who is doing well. The generalists I know are not more resilient. They are more replaceable, and they compete on price against everyone who owns a laptop.
 
-Buy something off the shelf, use it until it breaks, then buy something better. Build when you've outgrown three options and you know exactly what none of them can do. Not before.
+What specialising actually buys you is not authority. It is diagnosis. When you have seen the same problem forty times, you recognise it in the first conversation, and you can name what is going wrong before the client has finished explaining it. That moment is the entire sale. You cannot fake it with range.
 
-The founders who built their CRM at month two almost universally regret it. The ones who waited are the ones who knew what they actually needed when they finally sat down to spec it.
+The objection I take seriously is that specialising feels like closing doors while you still need the money. That is real. So do it the boring way: keep taking the broad work, but only publish, speak and write about the narrow thing. Your invoices stay diversified while your reputation concentrates. The reputation is what changes who calls you.
 
-#crm #saas #founders
+The thing that changes if you accept this is what you say no to in public, not what you say yes to in private.
+
+---
+
+**Format used:** The Question You Already Know the Answer To. A genuine question, answered with a position rather than a hedge.

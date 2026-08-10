@@ -3,22 +3,26 @@
 ## Input
 
 ```
-/linkedin-post Our best-converting demo segment is companies that already tried a competitor and failed. They close 2x faster. Churn is 40% lower. The competitor failure pre-sells the category better than any demo we run.
+/linkedin-post Noticed the candidates who ask about failure in interviews are the ones who stay longest. Been tracking it informally for about two years across maybe 60 placements.
 format: observation
 ```
 
 ## Output
 
-Our best-converting demo segment is companies that already failed with a competitor.
+The candidates who ask "what does failure look like in this role?" are the ones still there two years later.
 
-They close twice as fast as net-new evaluations. Churn is 40% lower at 12 months. We didn't engineer this — we noticed it in the data three months in.
+I started noticing it about sixty placements ago and began writing it down. It is not a hard number and I would not defend it as research, but the pattern has not broken yet.
 
-The competitor failure pre-sells the category better than any demo we could run. By the time they reach us, the objection isn't "do we need this?" It's "are you better than the last one?" That's a much easier conversation.
+The question does something specific. It tells you the person is imagining the job as a real thing with bad days in it, not as a title on a profile. They are checking whether they can survive the version of the role that nobody advertises.
 
-The implication: if you're only targeting companies that don't yet have a solution, you're ignoring the segment that's already pre-qualified itself.
+Candidates who only ask about growth, scope and progression are picturing the job going well. That is not a character flaw. It just means they have not tested the idea against anything difficult, so the first difficult month arrives as a surprise.
 
-Anyone else seeing this in their pipeline data?
+The uncomfortable part is what it says about the interviewer. Most of us cannot answer the question. We have a polished description of success and nothing honest about what going wrong looks like. When someone asks and we improvise, they hear it.
+
+So the question sorts both directions at once. It filters for candidates who think in real conditions, and it exposes employers who have never articulated what struggling in the role actually means.
+
+I now put the answer in the brief before anyone asks.
 
 ---
 
-**Format used:** The Observation — specific, counterintuitive data point with a clear implication.
+**Format used:** The Observation. A specific noticed pattern, with an implication that turns back on the reader.

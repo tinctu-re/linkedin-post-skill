@@ -3,18 +3,24 @@
 ## Input
 
 ```
-/linkedin-post Cold email reply rates averaged 3.4% last quarter. Two years ago they were 8.5%. Most founders are still running the same playbook.
+/linkedin-post Raised my day rate 40% last year. Lost two clients. Ended up earning more and working fewer days. Freelance illustration.
 format: number
 ```
 
 ## Output
 
-Cold email reply rates averaged 3.4% last quarter.
+I raised my day rate by forty per cent last year and lost two clients.
 
-Two years ago they were 8.5%. The channel didn't die — it got crowded, and the playbook most founders are running was written for the earlier market. Same sequences. Same subject lines. Same "I noticed you're using X" openers that everyone now recognises on sight.
+I also earned more than the year before, across fewer working days. Both things are true and it took me most of the year to stop treating the second one as luck.
 
-If your outbound numbers are declining, it's not the channel. It's that the tactics that worked in 2022 are table stakes now, which means they're invisible.
+Here is what actually happened. The two clients I lost were the two who negotiated hardest, briefed worst, and paid slowest. They were not marginal accounts I could afford to lose. They were roughly a third of my invoiced work. Losing them felt like a mistake for about four months.
 
-What actually moved the needle for us: shorter emails, slower sequences, and messaging that assumed the buyer already knew the category existed.
+What replaced them was not more clients. It was fewer projects with more room in them. The work took the time it needed instead of the time the budget allowed, which meant less rework, fewer rounds, and a portfolio I could actually show people.
 
-#b2bsales #outbound #founders
+The number that mattered was never the day rate. It was the ratio of paid days to unpaid ones. Revisions, chasing, scope arguments and re-briefs were eating roughly two unpaid days a week and none of that appeared anywhere I was measuring.
+
+If you are thinking about raising your rate and running the maths on which clients you would lose, run the other calculation too. Count the days you are already giving away.
+
+---
+
+**Format used:** The Number. A concrete figure that reframes what the reader thought the decision was about.
